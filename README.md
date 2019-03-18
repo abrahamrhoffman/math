@@ -1,5 +1,5 @@
 # Mathematics
-A simple container for general mathematics.
+A tree of containers for general mathematics
 
 ## Prime
 A container for all prime number related work
