@@ -1,0 +1,7 @@
+./prime_finder/target
+./prime_finder/**/*.rs.bk
+
+./sieve_of_eratosthenes/target/
+./sieve_of_eratosthenes/**/*.rs.bk
+
+*.pyc
