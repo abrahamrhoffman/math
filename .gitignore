@@ -3,4 +3,7 @@ prime/prime_finder/**/*.rs.bk
 prime/sieve_of_eratosthenes/target
 prime/sieve_of_eratosthenes/**/*.rs.bk
 
+testing/target
+testing/**/*.rs.bak
+
 scripts/*.pyc
